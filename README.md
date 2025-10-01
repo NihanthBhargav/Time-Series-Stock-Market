@@ -9,36 +9,36 @@ The main goal is to **compare different forecasting approaches**, evaluate their
 ---
 
 ## 📂 Repository Structure
-├── Models/
-│ ├── arima_model.ipynb
-│ ├── arima_predictions.csv
-│ ├── final_evaluation.csv
-│ ├── future_arima.csv
-│ ├── future_comparison.csv
-│ ├── future_evaluation.csv
-│ ├── future_lstm.csv
-│ ├── future_prophet.csv
-│ ├── future_sarima.csv
-│ ├── prophet_model.ipynb
-│ ├── prophet_predictions.csv
-│ ├── sarima_model.csv
-│ └── sarima_predictions.csv
-├── AAPL_clean.csv # Preprocessed dataset
-├── ARIMA_Future_Forecast.ipynb
-├── code.pynb
-├── CSV_Download.ipynb
-├── evaluation_metrics_on_forecasting.ipynb
-├── final_comparison.ipynb
-├── final_evaluation.ipynb
-├── future_comparison.ipynb
-├── future_tuned.ipynb
-├── lstm_forecasting.ipynb
-├── performance_metrics.ipynb
-├── Prophet_Future_Forecasting.ipynb
-├── SARIMA_Future_Forecast.ipynb
-├── TIME SERIES ANALYSIS AND FORECASTING FOR STOCK MARKET.pdf
-├── Time series stock market_20250417_183146_0000 (1)
-└── README.md
+- ├── Models/
+- │ ├── arima_model.ipynb
+- │ ├── arima_predictions.csv
+- │ ├── final_evaluation.csv
+- │ ├── future_arima.csv
+- │ ├── future_comparison.csv
+- │ ├── future_evaluation.csv
+- │ ├── future_lstm.csv
+- │ ├── future_prophet.csv
+- │ ├── future_sarima.csv
+- │ ├── prophet_model.ipynb
+- │ ├── prophet_predictions.csv
+- │ ├── sarima_model.csv
+- │ └── sarima_predictions.csv
+- ├── AAPL_clean.csv # Preprocessed dataset
+- ├── ARIMA_Future_Forecast.ipynb
+- ├── code.pynb
+- ├── CSV_Download.ipynb
+- ├── evaluation_metrics_on_forecasting.ipynb
+- ├── final_comparison.ipynb
+- ├── final_evaluation.ipynb
+- ├── future_comparison.ipynb
+- ├── future_tuned.ipynb
+- ├── lstm_forecasting.ipynb
+- ├── performance_metrics.ipynb
+- ├── Prophet_Future_Forecasting.ipynb
+- ├── SARIMA_Future_Forecast.ipynb
+- ├── TIME SERIES ANALYSIS AND FORECASTING FOR STOCK MARKET.pdf
+- ├── Time series stock market_20250417_183146_0000 (1)
+- └── README.md
 
 
 ---
