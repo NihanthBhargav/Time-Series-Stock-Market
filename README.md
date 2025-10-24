@@ -76,7 +76,31 @@ The main goal is to **compare different forecasting approaches**, evaluate their
 ---
 
 ## 🚀 How to Run
-Clone the repo:
-```bash
+1. Clone the repo:
+```
 git clone https://github.com/your-username/stock-forecasting.git
 cd stock-forecasting
+```
+2. Install Dependencies
+```
+pip install -r requirements.txt
+```
+3. Run notebooks in order:
+   - preprocessing.ipynb
+   - arima_sarima.ipynb
+   - prophet.ipynb
+   - lstm.ipynb
+   - final_comparision.ipynb
+
+---
+
+## 📌 Future Work
+- Add hybrid/ensemble models (stacked forecasts)
+- Deploy via Streamlit/Flask web app
+- Extend dataset to other tech stocks (MSTF, AMZN, TSLA, etc.)
+- Integrate external features (macro indicators, sentiment analysis)
+
+---
+
+## 📝 License
+This project is released under the MIT License.
